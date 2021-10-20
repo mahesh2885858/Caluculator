@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mahesh2885858/Caluculator/static/css/main.f0ac9953.chunk.css",
+    "main.js": "/mahesh2885858/Caluculator/static/js/main.b21d9fd4.chunk.js",
+    "main.js.map": "/mahesh2885858/Caluculator/static/js/main.b21d9fd4.chunk.js.map",
+    "runtime-main.js": "/mahesh2885858/Caluculator/static/js/runtime-main.dd83b9c9.js",
+    "runtime-main.js.map": "/mahesh2885858/Caluculator/static/js/runtime-main.dd83b9c9.js.map",
+    "static/js/2.89bbf52d.chunk.js": "/mahesh2885858/Caluculator/static/js/2.89bbf52d.chunk.js",
+    "static/js/2.89bbf52d.chunk.js.map": "/mahesh2885858/Caluculator/static/js/2.89bbf52d.chunk.js.map",
+    "index.html": "/mahesh2885858/Caluculator/index.html",
+    "static/css/main.f0ac9953.chunk.css.map": "/mahesh2885858/Caluculator/static/css/main.f0ac9953.chunk.css.map",
+    "static/js/2.89bbf52d.chunk.js.LICENSE.txt": "/mahesh2885858/Caluculator/static/js/2.89bbf52d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd83b9c9.js",
+    "static/js/2.89bbf52d.chunk.js",
+    "static/css/main.f0ac9953.chunk.css",
+    "static/js/main.b21d9fd4.chunk.js"
+  ]
+}
